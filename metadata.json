@@ -1,0 +1,6 @@
+{
+  "name": "أطلال الشفق — لعبة البقاء والاستخراج",
+  "description": "لعبة روجلايك ثنائية الأبعاد بنمط البكسل آرت الإجرائي مع دورة ليل ونهار، معسكرات وحوش وبوابات استخراج.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
